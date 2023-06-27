@@ -4,7 +4,7 @@ Hello Myselef, Srivasanth creater of WorldAroundYou project.Tchnologies used in 
 My portfolio is pinned below check more of my projects
 
 * MY WEBSITE VIEW
-<img align="left" src="https://res.cloudinary.com/dlxjzmiig/image/upload/v1687886362/Screenshot_10_ie9sdc.png" alt="srivasanth23" />
+<img align="left" src="https://res.cloudinary.com/dlxjzmiig/image/upload/v1687886362/Screenshot_10_ie9sdc.png&layout=compact" alt="srivasanth23" />
 
 
 I added some unique things to my code like
